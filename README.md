@@ -1,3 +1,3 @@
-# kominfo-landingpage
+# landingpage-bayu
 
-Landing page Kominfo versi wibu
+apa aja asal jadi
